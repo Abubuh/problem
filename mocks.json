@@ -1,0 +1,171 @@
+{"data": [
+    {
+        "fianza": "1456-0001",
+        "movimiento": "Ampliacion",
+        "fiado": "EMPRESA ABC S.A",
+        "antiguedad": 150,
+        "diasVencimiento": 0,
+        "importe": 18000
+    },
+    {
+        "fianza": "1456-0001",
+        "movimiento": "Ampliacion",
+        "fiado": "NOMBRECREADO ABC S.A",
+        "antiguedad": 150,
+        "diasVencimiento": 0,
+        "importe": 18000
+    },
+    {
+        "fianza": "1456-0002",
+        "movimiento": "Prorroga",
+        "fiado": "DISTRIBUIDORA XYZ S.A",
+        "antiguedad": 300,
+        "diasVencimiento": 120,
+        "importe": 25000
+    },
+    {
+        "fianza": "1456-0003",
+        "movimiento": "Expedicion",
+        "fiado": "AGROINDUSTRIAL ZZZ S.A",
+        "antiguedad": 180,
+        "diasVencimiento": 75,
+        "importe": 22000
+    },
+    {
+        "fianza": "1456-0004",
+        "movimiento": "Ampliacion",
+        "fiado": "EMPRESA ABC S.A",
+        "antiguedad": 210,
+        "diasVencimiento": 7,
+        "importe": 19000
+    },
+    {
+        "fianza": "1456-0005",
+        "movimiento": "Expedicion",
+        "fiado": "INDUSTRIAS INNOVADORAS S.A",
+        "antiguedad": 240,
+        "diasVencimiento": 15,
+        "importe": 27000
+    },
+    {
+        "fianza": "1456-0006",
+        "movimiento": "Prorroga",
+        "fiado": "DISTRIBUIDORA XYZ S.A",
+        "antiguedad": 130,
+        "diasVencimiento": 12,
+        "importe": 15000
+    },
+    {
+        "fianza": "1456-0007",
+        "movimiento": "Expedicion",
+        "fiado": "TECNOLOGIA AVANZADA S.A",
+        "antiguedad": 180,
+        "diasVencimiento": 28,
+        "importe": 20000
+    },
+    {
+        "fianza": "1456-0008",
+        "movimiento": "Ampliacion",
+        "fiado": "CONSTRUCCIONES SOLIDAS S.A",
+        "antiguedad": 250,
+        "diasVencimiento": 100,
+        "importe": 23000
+    },
+    {
+        "fianza": "1456-0009",
+        "movimiento": "Prorroga",
+        "fiado": "SERVICIOS INTEGRALES S.A",
+        "antiguedad": 170,
+        "diasVencimiento": 80,
+        "importe": 21000
+    },
+    {
+        "fianza": "1456-0010",
+        "movimiento": "Expedicion",
+        "fiado": "ALIMENTOS DELICIOSOS S.A",
+        "antiguedad": 200,
+        "diasVencimiento": 12,
+        "importe": 26000
+    },
+    {
+        "fianza": "1456-0011",
+        "movimiento": "Ampliacion",
+        "fiado": "PRODUCTOS NATURALES S.A",
+        "antiguedad": 280,
+        "diasVencimiento": 7,
+        "importe": 29000
+    },
+    {
+        "fianza": "1456-0012",
+        "movimiento": "Prorroga",
+        "fiado": "EMPRESA ABC S.A",
+        "antiguedad": 160,
+        "diasVencimiento": 34,
+        "importe": 18000
+    },
+    {
+        "fianza": "1456-0013",
+        "movimiento": "Expedicion",
+        "fiado": "ELECTRONICA MODERNA S.A",
+        "antiguedad": 220,
+        "diasVencimiento": 85,
+        "importe": 24000
+    },
+    {
+        "fianza": "1456-0014",
+        "movimiento": "Ampliacion",
+        "fiado": "AUTOMOTORES VELOZ S.A",
+        "antiguedad": 190,
+        "diasVencimiento": 0,
+        "importe": 22000
+    },
+    {
+        "fianza": "1456-0015",
+        "movimiento": "Prorroga",
+        "fiado": "BIOTECNOLOGIA AVANZADA S.A",
+        "antiguedad": 300,
+        "diasVencimiento": 0,
+        "importe": 28000
+    },
+    {
+        "fianza": "1456-0016",
+        "movimiento": "Expedicion",
+        "fiado": "CONSUMIBLES ECOLOGICOS S.A",
+        "antiguedad": 170,
+        "diasVencimiento": 3,
+        "importe": 21000
+    },
+    {
+        "fianza": "1456-0017",
+        "movimiento": "Ampliacion",
+        "fiado": "MATERIALES RESISTENTES S.A",
+        "antiguedad": 240,
+        "diasVencimiento": 0,
+        "importe": 26000
+    },
+    {
+        "fianza": "1456-0018",
+        "movimiento": "Prorroga",
+        "fiado": "COMUNICACIONES INTELIGENTES S.A",
+        "antiguedad": 130,
+        "diasVencimiento": 50,
+        "importe": 17000
+    },
+    {
+        "fianza": "1456-0019",
+        "movimiento": "Expedicion",
+        "fiado": "QUIMICOS INNOVADORES S.A",
+        "antiguedad": 200,
+        "diasVencimiento": 90,
+        "importe": 23000
+    },
+    {
+        "fianza": "1456-0020",
+        "movimiento": "Ampliacion",
+        "fiado": "TELECOMUNICACIONES AVANZADAS S.A",
+        "antiguedad": 270,
+        "diasVencimiento": 110,
+        "importe": 27000
+    }
+]
+}
