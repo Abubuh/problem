@@ -1,0 +1,15 @@
+thead{
+    background-color: rgb(180, 180, 180);
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-style: normal;
+    font-family: sans-serif;
+  }
+
+form{
+    margin-bottom: 20px;
+}
